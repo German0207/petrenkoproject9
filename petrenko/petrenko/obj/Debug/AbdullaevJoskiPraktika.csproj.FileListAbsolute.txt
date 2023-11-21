@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\AbdullaevJoskiPraktika\AbdullaevJoskiPraktika\bin\Debug\AbdullaevJoskiPraktika.exe.config
+C:\Users\student\source\repos\AbdullaevJoskiPraktika\AbdullaevJoskiPraktika\bin\Debug\AbdullaevJoskiPraktika.exe
+C:\Users\student\source\repos\AbdullaevJoskiPraktika\AbdullaevJoskiPraktika\bin\Debug\AbdullaevJoskiPraktika.pdb
+C:\Users\student\source\repos\AbdullaevJoskiPraktika\AbdullaevJoskiPraktika\obj\Debug\AbdullaevJoskiPraktika.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\AbdullaevJoskiPraktika\AbdullaevJoskiPraktika\obj\Debug\AbdullaevJoskiPraktika.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\AbdullaevJoskiPraktika\AbdullaevJoskiPraktika\obj\Debug\AbdullaevJoskiPraktika.Form1.resources
+C:\Users\student\source\repos\AbdullaevJoskiPraktika\AbdullaevJoskiPraktika\obj\Debug\AbdullaevJoskiPraktika.Properties.Resources.resources
+C:\Users\student\source\repos\AbdullaevJoskiPraktika\AbdullaevJoskiPraktika\obj\Debug\AbdullaevJoskiPraktika.csproj.GenerateResource.cache
+C:\Users\student\source\repos\AbdullaevJoskiPraktika\AbdullaevJoskiPraktika\obj\Debug\AbdullaevJoskiPraktika.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\AbdullaevJoskiPraktika\AbdullaevJoskiPraktika\obj\Debug\AbdullaevJoskiPraktika.exe
+C:\Users\student\source\repos\AbdullaevJoskiPraktika\AbdullaevJoskiPraktika\obj\Debug\AbdullaevJoskiPraktika.pdb
